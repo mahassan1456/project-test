@@ -1,0 +1,1 @@
+entering random text in a file for staging concept in git testing.
